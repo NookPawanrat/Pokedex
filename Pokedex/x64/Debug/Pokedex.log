@@ -1,0 +1,17 @@
+﻿  PokemonCenter.cpp
+D:\2025 Spring Class\Pokedex - GUI\Pokemon.h(2,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'PokemonCenter.cpp')
+  
+  main.cpp
+D:\2025 Spring Class\Pokedex - GUI\Pokemon.h(2,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'main.cpp')
+  
+  pokedex.cpp
+D:\2025 Spring Class\Pokedex - GUI\Pokemon.h(2,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'pokedex.cpp')
+  
+  pokemon.cpp
+D:\2025 Spring Class\Pokedex - GUI\Pokemon.h(2,10): error C1014: too many include files: depth = 1024
+  (compiling source file 'pokemon.cpp')
+  
+  Generating Code...
